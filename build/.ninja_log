@@ -1,0 +1,7 @@
+# ninja log v5
+0	783	1743412320342536846	CMakeFiles/robotarm_kinematic_test.dir/example/test.cpp.o	4c1eacb61feef4b8
+0	10119	1743412329670534629	CMakeFiles/robotarm_kinematic.dir/src/robotarm_kinematic.cpp.o	e73746297ecb4936
+10119	10489	1743412330046534548	librobotarm_kinematic.so	acd09326f33d4015
+10489	10509	0	CMakeFiles/copyfile	25466ea91a8d03e2
+10489	10509	0	/home/ubuntu2204/github-repositories/robotarm_kinematic/build/CMakeFiles/copyfile	25466ea91a8d03e2
+10489	10545	1743412330106534535	robotarm_kinematic_test	3ff1b10e6bdc7e8
